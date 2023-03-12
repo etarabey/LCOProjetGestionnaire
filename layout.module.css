@@ -1,0 +1,184 @@
+.bg{ 
+    background-color: #4E7668;
+    margin: 0;
+}
+.container {
+    min-height: 98vh;
+    padding: 0 0.5rem;
+    display: flex; 
+    flex-direction: column;
+    justify-content: center;
+    background-color: #4E7668;
+    font-size: 18px; 
+    font-family: 'Tahoma'; 
+    align-items: center; 
+    
+  }
+
+.header{ 
+    margin: 0; 
+    padding-bottom: 10px;
+    display: flex;
+    justify-content: center; 
+}
+
+
+
+  .navbar{ 
+    margin: 0; 
+    height: 55px; 
+    background-color: #AC9F8E;
+    align-items: center; 
+    display: flex;
+    position: fixed; 
+    top: 0px; 
+    bottom: 0px; 
+    right: 0px; 
+    left: 0px;
+
+
+  }
+
+  .button{ 
+    font-weight: bold;
+    background-color: #7E968C ;
+    padding: 20px; 
+    border-radius: 15px;
+    display: grid; 
+    align-items: center;
+    justify-content: center;
+    position: relative;
+
+  }
+  .ulists{  
+    list-style-type: none;
+    display: inline; 
+    padding: 5; 
+    align-items: center; 
+
+
+  }
+
+  .lists{ 
+    display: inline; 
+    flex-direction: row;  
+    padding: 15px; 
+
+    
+
+  }
+  .logo{ 
+    height: 55px;
+  }
+
+  .image{ 
+    height: 80px;
+
+    
+  }
+  .grid{ 
+    justify-content: center;
+    display: grid;
+    row-gap: 20px;
+    position: relative; 
+
+  }
+
+
+.label{ 
+    font-weight: 700;
+    display: grid;
+
+}
+
+.input{ 
+    justify-content: center;
+    align-items: center;
+    border-color: #AC9F8E;
+    border-width: 3px; 
+    border-radius: 10px; 
+    width: 200px;
+    position: relative;
+}
+
+.divs{  
+    justify-content: center;
+    position: relative;
+    margin-bottom: 20px; 
+
+
+}
+
+.divsbuttons{ 
+    justify-content: center;
+    position: relative;
+    display: inline-flex; 
+    padding-inline: 15px;
+}
+
+.imagestyles{ 
+    position: relative;
+    display: flex; 
+    flex-direction: row;
+    margin-right: 50px;
+}
+
+.buttontext{ 
+    font: "Tahoma"; 
+    font-size: 20px; 
+    font-weight: bold; 
+    justify-content: center;
+}
+
+.buttonimages{ 
+    height: 80px; 
+    justify-content: center;
+    align-items: center;
+    display: flex; 
+    position: relative;
+    padding-right: 7%;
+    
+}
+
+.weatherbutton{ 
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    background-color: #7E968C; 
+    display: flex; 
+    flex-wrap: wrap;
+    border-radius: 30px; 
+    padding-inline: 50px; 
+
+}
+
+.optionbox{ 
+    border-radius: 10px; 
+    font: "Tahoma"; 
+    font-size: 16px; 
+    padding:5px; 
+
+}
+
+.langdiv{  
+    display: block;  
+    right: 0px; 
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    width: 20%;
+    position: relative;
+
+    
+}
+
+.bigdiv{ 
+    margin-bottom: 140;
+    position:relative;
+    display: grid;
+    justify-content:"center"
+}
+
+
+
+
