@@ -1,0 +1,52 @@
+.body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.header {
+    background-color: #004989;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+}
+.h1 {
+    margin: 0;
+    font-size: 24px;
+}
+#logo {
+    height: 60px;
+    margin-right: 20px;
+}
+.container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 0 20px;
+}
+.category {
+    background-color: #f2f2f2;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+.category h2 {
+    margin: 0;
+    font-size: 20px;
+}
+.message {
+    background-color: #fff;
+    padding: 10px;
+    border: 1px solid #ccc;
+    margin-bottom: 10px;
+}
+.message p {
+    margin: 0;
+}
+.message .date {
+    color: #666;
+    font-size: 14px;
+}
+.message .priority {
+    color: #ff0000;
+    font-weight: bold;
+}
